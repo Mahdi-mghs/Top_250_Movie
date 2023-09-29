@@ -16,5 +16,6 @@ Important **Library** Used:
 ## Describe Files
 ### [crawl.py]([crawl.py](https://github.com/Mahdi-mghs/Top_250_Movie/blob/master/crawl.py))
 Running this script it's begin the crawlling process
-> with normally connction it takes around 20 min for extract (*it shows in your terminal how much remain to completed*) <
+> with normally connction it takes around 20 min for extract (*it shows in your terminal how much remain to completed*)
+
 After Completing it creates a _CSV_ file named **movie** :fire:# Top_250_Movie
