@@ -4,12 +4,12 @@
 Important **Library** Used:
 ```
 1. request
-1. numpy
-1. pandas
-1. SqlAlchemy
-1. pymysql
-1. streamlit
-1. matplotlib
+2. numpy
+3. pandas
+4. SqlAlchemy
+5. pymysql
+6. streamlit
+7. matplotlib
 ```
 [_Main link_](https://www.imdb.com/chart/top/?ref_=nv_mv_250) for Starting
 ---
@@ -18,4 +18,4 @@ Important **Library** Used:
 Running this script it's begin the crawlling process
 > with normally connction it takes around 20 min for extract (*it shows in your terminal how much remain to completed*)
 
-After Completing it creates a _CSV_ file named **movie** :fire:# Top_250_Movie
+After Completing it creates a _CSV_ file named **movie** :fire:
