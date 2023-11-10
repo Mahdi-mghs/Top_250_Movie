@@ -16,6 +16,18 @@ Important **Library** Used:
 ## Describe Files
 ### [crawl.py]([crawl.py](https://github.com/Mahdi-mghs/Top_250_Movie/blob/master/crawl.py))
 Running this script it's begin the crawlling process
-> with normally connction it takes around 20 min for extract (*it shows in your terminal how much remain to completed*)
+> with normally connection it takes around 20 min for extract (*it shows in your terminal how much remain to completed*)
 
 After Completing it creates a _CSV_ file named **movie** :fire:
+---
+### [Connector.ipynb]([connector.ipynb](https://github.com/Mahdi-mghs/Top_250_Movie/blob/master/connector.ipynb))
+Create Database and Insert Data
+> you need to create _schema\_test_ in your database after that you can run jupyter file
+
+*Better to use .to_sql() Pandas function instead of "pymysql" library, next project corrected :)*
+you can see your datas in _Workbench_ or _mysql.conncetor_ :atom:
+---
+### [dashboard.py](dashboard.py](https://github.com/Mahdi-mghs/Top_250_Movie/blob/master/dashboard.py))
+**Streamlit** Script
+
+you can follow this [link](https://github.com/)
